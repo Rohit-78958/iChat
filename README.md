@@ -8,6 +8,8 @@ The server broadcasts user events, including arrival, departure, or message send
 
 An audio file (ting.mp3) was utilized to provide notification upon receipt of messages.
 
+Implemented Advanced Encryption Standard (AES) cryptography in the project using "crypto-js" module to ensure secure messaging.
+
 
 **User Joins**
 ![WhatsApp Image 2022-12-28 at 11 33 16](https://user-images.githubusercontent.com/74254913/211632564-1368e41f-cbe1-4336-bef4-b5f0d1a4e2a5.jpeg)
