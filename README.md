@@ -21,5 +21,5 @@ An audio file (ting.mp3) was utilized to provide notification upon receipt of me
 ![Screenshot (163)](https://user-images.githubusercontent.com/74254913/235437645-6c94ece5-e77c-4b10-8eaf-3e59f0ba9c58.png)
 
 
-**Decryption at sender side**
+**Decryption at reciever side**
 ![Screenshot (164)](https://user-images.githubusercontent.com/74254913/235437719-f2cb1c68-46d4-4575-b5a6-4b5fd5c1bf3c.png)
