@@ -15,3 +15,11 @@ An audio file (ting.mp3) was utilized to provide notification upon receipt of me
 
 **Chatting**
 ![WhatsApp Image 2022-12-28 at 10 41 02](https://user-images.githubusercontent.com/74254913/211632579-e5312ed6-e0b9-4de1-8009-ccc84a3c0aa0.jpeg)
+
+
+**Encryption at sender side**
+![Screenshot (163)](https://user-images.githubusercontent.com/74254913/235437645-6c94ece5-e77c-4b10-8eaf-3e59f0ba9c58.png)
+
+
+**Decryption at sender side**
+![Screenshot (164)](https://user-images.githubusercontent.com/74254913/235437719-f2cb1c68-46d4-4575-b5a6-4b5fd5c1bf3c.png)
